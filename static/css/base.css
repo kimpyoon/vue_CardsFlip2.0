@@ -1,0 +1,36 @@
+
+body,div,ul,h1,h2,h3,h4,h5,p,ol,li,dl,dt,dd,form,table,input,select,button,textarea{
+	margin: 0;
+	padding: 0;
+}
+html,body{
+	line-height: 1;
+	font-size: 16px;
+	font-family: "黑体";
+	box-sizing: border-box;
+    height:100%;	
+	color: #D6D3E4;
+	background:#262931;
+
+}
+a{
+	text-decoration: none;
+	color: #fff;
+}
+li{
+	list-style: none;
+}
+section,header,footer,nav,aside,article{
+	display: block;
+}
+input,select,button,textarea{
+	outline: none;
+}
+b,strong{
+	font-weight: normal;
+}
+i{
+	font-style: normal;
+}
+
+::-webkit-tap-highlight-color:rgba(0,0,0,0);

@@ -1,0 +1,30 @@
+{
+	"code":200,
+	"data":[
+		{
+			"currentCode":0,
+			"userName":"134...893",
+			"avatarUrl":"static/images/Cards_avatar1.png"
+		},
+		{
+			"currentCode":0,
+			"userName":"手拿宝剑",
+			"avatarUrl":"static/images/Cards_avatar2.png"
+		},
+		{
+			"currentCode":1,
+			"userName":"我",
+			"avatarUrl":"static/images/Cards_avatar_mine.png"
+		},
+		{
+			"currentCode":0,
+			"userName":"谁谁谁",
+			"avatarUrl":"static/images/Cards_avatar4.png"
+		},
+		{
+			"currentCode":0,
+			"userName":"1234",
+			"avatarUrl":"static/images/Cards_avatar5.png"
+		}
+	]
+}
